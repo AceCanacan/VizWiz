@@ -2,6 +2,10 @@
 
 _An automatic visualization tool powered by AI._
 
+<img width="801" alt="Screen Shot 2023-09-28 at 4 47 53 PM" src="https://github.com/AceCanacan/VizWiz/assets/110709199/aa3d8e07-7701-4e1d-8b68-9a0ce75200ee">
+<img width="793" alt="Screen Shot 2023-09-28 at 4 47 57 PM" src="https://github.com/AceCanacan/VizWiz/assets/110709199/0f173d6a-1752-43db-93df-1a830da8c000">
+
+
 ## 📌 Table of Contents
 - [📖 Project Description](#-project-description)
 - [🔧 Installation](#-installation)
